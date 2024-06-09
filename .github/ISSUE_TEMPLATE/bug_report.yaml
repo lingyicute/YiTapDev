@@ -7,9 +7,9 @@ body:
     attributes:
       value: |
         Thanks for taking the time to file this issue! Here are a few things to check before clicking the submit button :)
-        1. Make sure you're on the latest version of the app. The current release can be found here: https://github.com/LawnchairLauncher/lawnchair/releases.
+        1. Make sure you're on the latest version of the app. The current release can be found here: https://github.com/lingyicute/YiTap/releases.
         2. Read the FAQ to check if it's one of the common issues you can encounter in the launcher; if it is, please don't create an issue about it. https://lawnchair.app/faq.
-        3. Search through **both** [open and closed issues](https://github.com/LawnchairLauncher/lawnchair/issues?q=is%3Aissue+sort%3Aupdated-desc+) for your bug.
+        3. Search through **both** [open and closed issues](https://github.com/lingyicute/YiTap/issues?q=is%3Aissue+sort%3Aupdated-desc+) for your bug.
         4. ALWAYS fill this template. If you fail to do so, your issue will be immediately closed with no response. Maintaining open source projects for free is hard work, and we expect users to respect that time and effort by putting in a little bit of their own. That helps us fix these problems faster and in return you get a better app — everybody wins.
 
         Note: If this issue is inactive for 90 days, it'll be marked as stale.

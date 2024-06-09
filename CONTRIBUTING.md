@@ -39,7 +39,7 @@ know [Java](https://www.java.com) or preferably [Kotlin](https://kotlinlang.org/
 > You can use Git to clone the repository; ensure that you include the project’s submodules using the `recursive` flag:
 >
 > ```
-> git clone --recursive https://github.com/LawnchairLauncher/lawnchair.git
+> git clone --recursive https://github.com/lingyicute/YiTap.git
 > ```
 
 To build **Lawnchair**, select the `lawnWithQuickstepGithubDebug` build type.
@@ -50,7 +50,7 @@ Here are some contribution tips to help you get started:
 
 -   Always make sure that you're up-to-date with **Lawnchair** by setting your base branch to `14-dev`.
 -   Make sure your code is logical and well-formatted. If using Kotlin, see [“Coding conventions” in the Kotlin documentation](https://kotlinlang.org/docs/coding-conventions.html);
--   [The `lawnchair` package](https://github.com/LawnchairLauncher/lawnchair/tree/14-dev/lawnchair) houses Lawnchair’s own code, whereas [the `src` package](https://github.com/LawnchairLauncher/lawnchair/tree/14-dev/src) includes a clone of the Launcher3 codebase with modifications. Generally, place new files in the former, keeping changes to the latter to a minimum.
+-   [The `lawnchair` package](https://github.com/lingyicute/YiTap/tree/14-dev/lawnchair) houses Lawnchair’s own code, whereas [the `src` package](https://github.com/lingyicute/YiTap/tree/14-dev/src) includes a clone of the Launcher3 codebase with modifications. Generally, place new files in the former, keeping changes to the latter to a minimum.
 
 #### Additional documentation
 
@@ -62,7 +62,7 @@ Here are some contribution tips to help you get started:
 
 #### Versioning scheme
 
-As of [#4361](https://github.com/LawnchairLauncher/lawnchair/pull/4361),
+As of [#4361](https://github.com/lingyicute/YiTap/pull/4361),
 Lawnchair’s version code is separated by four parts:
 
 <p align="center">

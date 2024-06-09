@@ -1,7 +1,7 @@
 # Lawnchair 14
 
-[![Build debug APK](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/ci.yml/badge.svg)](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/ci.yml)
-[![Build release APK](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/release_update.yml/badge.svg)](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/release_update.yml)
+[![Build debug APK](https://github.com/lingyicute/YiTap/actions/workflows/ci.yml/badge.svg)](https://github.com/lingyicute/YiTap/actions/workflows/ci.yml)
+[![Build release APK](https://github.com/lingyicute/YiTap/actions/workflows/release_update.yml/badge.svg)](https://github.com/lingyicute/YiTap/actions/workflows/release_update.yml)
 [![Crowdin](https://badges.crowdin.net/e/188ba69d884418987f0b7f1dd55e3a4e/localized.svg)](https://lawnchair.crowdin.com/lawnchair)
 [![Telegram](https://img.shields.io/endpoint?url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Flccommunity)](https://t.me/lccommunity)
 [![Discord](https://img.shields.io/discord/803299970169700402?label=server&logo=discord)](https://discord.gg/3x8qNWxgGZ)
@@ -28,7 +28,7 @@ This branch houses the codebase of Lawnchair 14, which is currently in beta and 
 
 ## Download
 
-See the [Releases](https://github.com/LawnchairLauncher/lawnchair/releases) section for the latest
+See the [Releases](https://github.com/lingyicute/YiTap/releases) section for the latest
 beta build. For development builds with new icons, use the nightly builds.
 
 ## Contributing
@@ -42,4 +42,4 @@ Please visit the [Lawnchair Contributing Guidelines](CONTRIBUTING.md) for inform
 -   [Website](https://lawnchair.app)
 -   [_XDA_ thread](https://forum.xda-developers.com/t/lawnchair-customizable-pixel-launcher.3627137/)
 
-You can view all our links in the [Lawnchair Wiki](https://github.com/LawnchairLauncher/lawnchair/wiki).
+You can view all our links in the [Lawnchair Wiki](https://github.com/lingyicute/YiTap/wiki).

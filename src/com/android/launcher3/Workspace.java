@@ -507,7 +507,7 @@ public class Workspace<T extends View & PageIndicator> extends PagedView<T>
 
         if (mDragInfo != null && mDragInfo.cell != null) {
             CellLayout layout = (CellLayout) (mDragInfo.cell instanceof LauncherAppWidgetHostView
-                    // https://github.com/LawnchairLauncher/lawnchair/issues/3143
+                    // https://github.com/lingyicute/YiTap/issues/3143
                     && dragObject.dragView.getContentViewParent() != null
                             ? dragObject.dragView.getContentViewParent().getParent()
                             : mDragInfo.cell.getParent().getParent());

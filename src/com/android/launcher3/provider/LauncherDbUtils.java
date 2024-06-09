@@ -179,7 +179,7 @@ public class LauncherDbUtils {
             db.execSQL("ALTER TABLE " + Favorites.TABLE_NAME + " DROP COLUMN iconPackage;");
             db.execSQL("ALTER TABLE " + Favorites.TABLE_NAME + " DROP COLUMN iconResource;");
         } catch (SQLiteException ignored) {
-            // Compat users upgrade from Lawnchair 13, see https://github.com/LawnchairLauncher/lawnchair/issues/3881.
+            // Compat users upgrade from Lawnchair 13, see https://github.com/lingyicute/YiTap/issues/3881.
             removeColumn(db, Favorites.TABLE_NAME, "iconPackage");
             removeColumn(db, Favorites.TABLE_NAME, "iconResource");
         }

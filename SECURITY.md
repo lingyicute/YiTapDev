@@ -22,7 +22,7 @@ The latest version of Lawnchair is the only supported version.
 We appreciate your efforts to responsibly disclose your findings and will make every effort to
 acknowledge your contributions.
 
-To report an issue, please file a [security advisory](https://github.com/LawnchairLauncher/lawnchair/security/advisories/new)
+To report an issue, please file a [security advisory](https://github.com/lingyicute/YiTap/security/advisories/new)
 or contact a developer (can be found in the about page of the app) in Telegram or Discord and
 state your security vulnerability starting with the words "**SECURITY**".
 

@@ -193,7 +193,7 @@ private val links = listOf(
     Link(
         iconResId = R.drawable.ic_github,
         labelResId = R.string.github,
-        url = "https://github.com/LawnchairLauncher/lawnchair",
+        url = "https://github.com/lingyicute/YiTap",
     ),
     Link(
         iconResId = R.drawable.ic_discord,
@@ -242,7 +242,7 @@ fun About(
                 modifier = Modifier.combinedClickable(
                     onClick = {},
                     onLongClick = {
-                        val commitUrl = "https://github.com/LawnchairLauncher/lawnchair/commit/${BuildConfig.COMMIT_HASH}"
+                        val commitUrl = "https://github.com/lingyicute/YiTap/commit/${BuildConfig.COMMIT_HASH}"
                         context.startActivity(Intent(Intent.ACTION_VIEW, commitUrl.toUri()))
                     },
                 ),
